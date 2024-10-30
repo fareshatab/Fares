@@ -8,6 +8,7 @@ public class sr : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       
         int playerLives = 3;
          
         while(playerLives>= 0){
